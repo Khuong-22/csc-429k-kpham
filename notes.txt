@@ -1,1 +1,13 @@
-test
+create a branch:
+git checkout -b feature/test
+check current branch:
+git status
+check all branches:
+git branch
+switch branch:
+git checkout main
+workflow: add (luu lai) -> commit ()-> push (day len github)
+git add . (save all)
+git add notes.txt (save a specific file)
+git add ./src/Main.java ( save a specific path)
+git commit . -m "note the change" (commit all)
